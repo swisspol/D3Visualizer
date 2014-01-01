@@ -1,0 +1,24 @@
+[submodule "Cooliris-ToolKit"]
+	path = Cooliris-ToolKit
+	url = https://github.com/swisspol/Cooliris-ToolKit
+[submodule "D3"]
+	path = D3
+	url = https://github.com/mbostock/d3.git
+[submodule "CodeMirrorView"]
+	path = CodeMirrorView
+	url = https://github.com/swisspol/CodeMirrorView.git
+[submodule "CHCSVParser"]
+	path = CHCSVParser
+	url = https://github.com/davedelong/CHCSVParser.git
+[submodule "Crossfilter"]
+	path = Crossfilter
+	url = https://github.com/square/crossfilter.git
+[submodule "D3Plugins"]
+	path = D3Plugins
+	url = https://github.com/d3/d3-plugins.git
+[submodule "DC"]
+	path = DC
+	url = https://github.com/NickQiZhu/dc.js.git
+[submodule "NVD3"]
+	path = NVD3
+	url = https://github.com/novus/nvd3.git

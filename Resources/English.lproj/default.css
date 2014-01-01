@@ -1,0 +1,7 @@
+/* Insert your CSS code here */
+
+.circle {
+  fill: none;
+  stroke: red;
+  stroke-width: 10px;
+}
