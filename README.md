@@ -8,4 +8,4 @@ The app can import .csv or .tsv files as well as SQLite databases.
 License
 =======
 
-CodeMirrorView is available under [New BSD License](LICENSE).
+D3Visualizer is available under [New BSD License](LICENSE).
